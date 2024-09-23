@@ -1,0 +1,33 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/appsettings.Development.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/appsettings.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Cart API
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Cart API.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Cart API.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Cart API.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Cart API.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.csproj.AssemblyReference.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.MvcApplicationPartsAssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.MvcApplicationPartsAssemblyInfo.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets/msbuild.Cart API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets/msbuild.build.Cart API.props
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cart API.props
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cart API.props
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/scopedcss/bundle/Cart API.styles.css
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.csproj.Up2Date
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/refint/Cart API.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/ref/Cart API.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Cart API/Cart API/Cart API/obj/Debug/net8.0/Cart API.sourcelink.json
